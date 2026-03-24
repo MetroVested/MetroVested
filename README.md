@@ -1,39 +1,61 @@
-**Welcome to your Base44 project** 
+# Metro Vested Properties (MVP)
 
-**About**
+Official website project for **Metro Vested Properties (MVP)**, a residential construction and remodeling company serving **Lima, Ohio** and surrounding areas.
 
-View and Edit  your app on [Base44.com](http://Base44.com) 
+## About This Project
 
-This project contains everything you need to run your app locally.
+This repository contains the source code for the MVP website. The site is designed to present the company as a modern, trustworthy, professional home construction and remodeling business while making it easy for customers to explore services and request quotes.
 
-**Edit the code in your local development environment**
+## Services
 
-Any change pushed to the repo will also be reflected in the Base44 Builder.
+Metro Vested Properties offers services including:
 
-**Prerequisites:** 
+- Kitchen Remodels
+- Bathroom Remodels
+- Basement Remodels
+- Full Home Remodels
+- New Home Builds
+- Home Additions
+- Roofing
+- Flooring
+- Drywall
+- Painting
+- Concrete Work
+- Siding
+- Decks
+- Porches
+- Windows
+- Doors
+- Garages
+- Barns
+- Outbuildings
+- Barndominiums
+- General Home Improvement and Construction Services
 
-1. Clone the repository using the project's Git URL 
-2. Navigate to the project directory
-3. Install dependencies: `npm install`
-4. Create an `.env.local` file and set the right environment variables
+## Contact
 
-```
-VITE_BASE44_APP_ID=your_app_id
-VITE_BASE44_APP_BASE_URL=your_backend_url
+**Metro Vested Properties (MVP)**  
+Phone: 567-204-5618  
+Text: 567-204-5618  
+Email: sales@mvphomeconstruction.com
 
-e.g.
-VITE_BASE44_APP_ID=cbef744a8545c389ef439ea6
-VITE_BASE44_APP_BASE_URL=https://my-to-do-list-81bfaad7.base44.app
-```
+## Service Area
 
-Run the app: `npm run dev`
+Based in **Lima, Ohio**, serving Lima and surrounding communities.
 
-**Publish your changes**
+## Repository Purpose
 
-Open [Base44.com](http://Base44.com) and click on Publish.
+This repository is used to:
 
-**Docs & Support**
+- Store the website source code
+- Manage edits and updates
+- Support deployment of the live website
+- Maintain project version history
 
-Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
+## Notes
 
-Support: [https://app.base44.com/support](https://app.base44.com/support)
+This repository contains the official website materials for Metro Vested Properties. Content and design may continue to be refined over time.
+
+## License
+
+All rights reserved.
